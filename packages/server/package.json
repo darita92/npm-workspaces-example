@@ -1,0 +1,21 @@
+{
+    "name": "npm-workspaces-example-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified on server\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/darita92/npm-workspaces-example.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/darita92/npm-workspaces-example/issues"
+    },
+    "homepage": "https://github.com/darita92/npm-workspaces-example#readme"
+  }
+  
